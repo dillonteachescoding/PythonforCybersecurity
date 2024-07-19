@@ -1,3 +1,6 @@
+import greet
+print(greet.greet("Updog"))
+
 #Lesson 2
 
 
